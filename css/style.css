@@ -1,33 +1,30 @@
-body  {
-    padding: 0%;
-    margin: 0%;
+section {
+    background-color: rgb(122, 224, 122);
 }
 nav {
     background-color: rgb(38, 102, 60);
     height: 100px;
     width: 100%;
-  }
-  
-  .enlace {
+}  
+.enlace {
     position: absolute;
     padding-left: 20px;
-  }
-  
-  nav ul {
+}
+nav ul {
     float: right;
     margin-right: 20px;
-  }
-  
-  nav ul li {
+}  
+nav ul li {
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
     list-style: none;
-  }
-  
-  nav ul li a {
+}
+nav ul li a {
     color: azure;
     font-size: 18px;
     padding: 7px 13px;
     text-decoration: none;
-  }
+}
+#somos {
+}
